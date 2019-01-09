@@ -15,7 +15,7 @@ Polar X is a index page designed for gmod communities.
 - Include your site details, servers, staff, portals & social links in config.php.
 
 # Preview
-[Demo](https://districtnine.host/dev/demos/polar-x/)
+[Demo](https://districtnine.host/dev/demos/polar-x/) | Random Color Theme
 
 ![home](https://i.imgur.com/3uUdD4M.png)
 ![home](https://i.imgur.com/V194i4y.png)
