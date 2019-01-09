@@ -1,3 +1,5 @@
+![home](https://i.imgur.com/ufm3Md9.png)
+
 # What is Polar X?
 Polar X is a index page designed for source communities.
 
@@ -13,7 +15,6 @@ Polar X is a index page designed for source communities.
 # Preview
 [Demo](http://districtnine.host/dev/demos/polar-x/)
 
-![home](https://i.imgur.com/ufm3Md9.png)
 ![home](https://i.imgur.com/3uUdD4M.png)
 ![home](https://i.imgur.com/V194i4y.png)
 ![home](https://i.imgur.com/yYVTNx3.png)
