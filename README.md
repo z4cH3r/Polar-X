@@ -1,5 +1,5 @@
 # What is Polar X?
-Polar X is a index page designed for source communities.
+Polar X is a index page designed for gmod communities.
 
 # Whats Included?
 - Portal Buttons.
