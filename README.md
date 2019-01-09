@@ -1,4 +1,4 @@
-![home](https://i.imgur.com/ufm3Md9.png)
+![home](https://i.gyazo.com/1a99b945a7d10bbd8abfe5e00c3b928b.png)
 
 # What is Polar X?
 Polar X is a index page designed for source communities.
