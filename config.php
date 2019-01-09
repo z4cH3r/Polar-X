@@ -19,7 +19,7 @@ $portal = array(
 );
 
 $features_enabled = "true"; # true = display features section / false = doesn't display the features section
-// Icons https://fontawesome.com/icons?d=gallery&m=free
+// Icons https://fontawesome.com/icons?d=gallery&m=free, https://ionicons.com/,
 $features = array(
     array(
         'icon' => 'fa fas fa-star',
