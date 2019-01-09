@@ -52,6 +52,6 @@ $icons = array(
     'fab fa-steam-symbol' => 'https://steamcommunity.com/id/kuikomi/',
     'fab fa-discord' => 'https://discord.gg/yw9r72',
     'fab fa-twitter' => 'https://twitter.com/wardweeb',
-    'icon ion-social-youtube' => '#'
+    'fab fa-youtube' => '#'
 );
 ?>
