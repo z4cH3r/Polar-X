@@ -10,6 +10,11 @@ Polar X is a index page designed for gmod communities.
 - Social Media Showcase.
 - Server statistics.
 
+# Setup Instructions
+- Upload files onto a web server with php 5.5 or higher.
+- Enter your Steam API key into config.php.
+- Include your site details, servers, staff, portals & social links in config.php.
+
 # Preview
 [Demo](http://districtnine.host/dev/demos/polar-x/)
 
