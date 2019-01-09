@@ -4,11 +4,10 @@ Polar X is a index page designed for gmod communities.
 # Whats Included?
 - Portal Buttons.
 - Config File.
-- Server list w/ stats & connect button.
+- Server list w/ statistics & connect button.
 - Features Showcase.
 - Staff Showcase.
 - Social Media Showcase.
-- Server statistics.
 
 # Setup Instructions
 - Upload files onto a web server with php 5.5 or higher.
